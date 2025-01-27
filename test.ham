@@ -1,0 +1,7 @@
+sankhya = 10;
+yadi (sankhya > 5) {
+    dekha sankhya;
+} natra {
+    dekha 0;
+}
+

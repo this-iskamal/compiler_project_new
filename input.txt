@@ -1,0 +1,22 @@
+
+x = 5;
+dekha x;
+
+
+y = 10;
+z = x + y;
+dekha z;
+
+
+yadi (x < y) {
+    dekha x;
+} natra {
+    dekha y;
+}
+
+
+i = 0;
+jaba_samma (i < 5) {
+    dekha i;
+    i = i + 1;
+}
